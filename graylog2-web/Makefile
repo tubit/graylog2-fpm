@@ -1,5 +1,5 @@
 NAME=graylog2-web-interface
-VERSION=0.10.0-rc.3
+VERSION=0.10.2
 PREFIX=/opt/graylog2-web
 MAINTAINER="Dennis Konert <dkonert@gmail.com>"
 ITERATION=1
