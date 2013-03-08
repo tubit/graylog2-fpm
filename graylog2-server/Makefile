@@ -1,5 +1,5 @@
 NAME=graylog2-server
-VERSION=0.10.0-rc.4
+VERSION=0.11.0
 PREFIX=/opt/graylog2-server
 MAINTAINER="Dennis Konert <dkonert@gmail.com>"
 ITERATION=1
