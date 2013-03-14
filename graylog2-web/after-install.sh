@@ -8,6 +8,7 @@ if [ ! -d $GLDIR ]; then
 fi
 
 cd $GLDIR
+/usr/bin/gem1.9.1 install bundler --no-rdoc --no-ri
 /var/lib/gems/1.9.1/bin/bundle install --without=development
 
 
